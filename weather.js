@@ -1,6 +1,6 @@
 const request = require('request')
 const chalk = require('chalk')
-const key = '67897c386bad4a7b81634832210607'
+const key = 'API_KEY'
 
 const getWeather = (city)=>{
 
